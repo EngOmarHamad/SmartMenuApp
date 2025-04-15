@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- الصفحة الرئيسية -->
+    <item
+        android:id="@+id/item_home"
+        android:title="Home"
+        android:icon="@drawable/home_24"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom" />
+
+    <!-- المفضلة -->
+    <item
+        android:id="@+id/item_favorite"
+        android:title="Favorites"
+        android:icon="@drawable/favorite_24"
+        android:orderInCategory="2"
+        app:showAsAction="ifRoom" />
+</menu>

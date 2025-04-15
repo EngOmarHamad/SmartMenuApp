@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795856284303",
+    "project_id": "smartmenuapp-f387f",
+    "storage_bucket": "smartmenuapp-f387f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795856284303:android:8eb449cdbede9157081efa",
+        "android_client_info": {
+          "package_name": "com.example.smartmenuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnKizAi18d3iVXRlIX9dZLIX3kgNVZhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
